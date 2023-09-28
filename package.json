@@ -1,0 +1,19 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "My codewars codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jbpcasoy",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.6",
+    "@types/mocha": "^10.0.2",
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
