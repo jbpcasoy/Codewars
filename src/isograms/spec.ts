@@ -4,7 +4,7 @@ import { assert } from "chai";
 import { isIsogram } from "./solution";
 
 // TODO Add your tests here
-describe("example", function () {
+describe("Isograms", function () {
   it("test", function () {
     assert.equal(isIsogram("Dermatoglyphics"), true);
     assert.equal(isIsogram("isogram"), true);
